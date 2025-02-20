@@ -1,10 +1,10 @@
-<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/artem-trifonov-177b90222/" target="_blank">Artem</a> 
+<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/artem-trifonov-177b90222/" target="_blank">Artemis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Automated Quality Assurance Engineer from Montenegro 🇲🇪</h3>
+<h3 align="center">Quality Assurance Engineer (Web/Mobile/GameDev) from Podgorica, Montenegro 🇲🇪</h3>
 </br>
 </br>
 
-<p>🌱 I’m currently learning fullstack web-development and tests automation </p>
+<p>🌱 I’m currently learning fullstack web-development</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-levitt&theme=solarized_dark)
 
