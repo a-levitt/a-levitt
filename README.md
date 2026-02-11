@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/artem-trifonov-177b90222/" target="_blank">Artemis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Quality Assurance Engineer (Web/Mobile/GameDev) from Podgorica, Montenegro 🇲🇪</h3>
+<h3 align="center">Quality Assurance Engineer (Web/Mobile/GameDev) from Belgrade, Serbia 🇷🇸</h3>
 </br>
 </br>
 
